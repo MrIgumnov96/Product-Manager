@@ -1,0 +1,6 @@
+Customer Name,Address,Number,Status,Courier,Items
+Arthur,10 Downing Street,07134322242,Preparing,2,"[1, 2, 3, 1]"
+Dennis,5 Baker Street,0714433434534,Preparing,3,[1]
+Johnson,4 Station Road,07132546754,delivering,3,[3]
+Tim,30 Big Street,08765432123,Preparing,1,[2]
+Tam,4 Big Street,07123456789,Preparing,1,"[2, 1, 3]"
